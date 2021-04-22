@@ -12,7 +12,7 @@
     <groupId>com.dubboclub.dk</groupId>
     <artifactId>mysql-storage</artifactId>
     <properties>
-        <mybatis.version>3.2.8</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring.version>1.1.0</mybatis.spring.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <mysql.driver.version>5.1.18</mysql.driver.version>
